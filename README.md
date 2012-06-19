@@ -2,11 +2,14 @@
 
 #### [State of the Nation's Housing 2012](http://www.jchs.harvard.edu/research/publications/state-nation%E2%80%99s-housing-2012), Published June 14, 2012 by the Joint Center for Housing Studies
 > *The Joint Center for Housing Studies is a collaborative unit affiliated with the Harvard Graduate School of Design and the Harvard Kennedy School.*
+
 - [Full PDF report available](https://github.com/hrwgc/homes/blob/gh-pages/read/state-of-nations-housing-2012.pdf)
 
-#### HUD's Office of Inspector General [](http://www.hudoig.gov/reports/featured_reports.php)
+#### HUD's Office of Inspector General [Federal Housing Admin. Audits of Citi, Wells Fargo, JP Morgan, Ally, Bank of America](http://www.hudoig.gov/reports/featured_reports.php)
+
  > As part of the Office of Inspector General’s (OIG) nationwide effort to review the foreclosure practices of the five largest Federal Housing Administration (FHA) mortgage servicers (Bank of America, Wells Fargo Bank, CitiMortgage, JP Morgan Chase, and Ally Financial, Incorporated) we reviewed Wells Fargo’s foreclosure and claims processes. In addition to this memorandum, OIG issued separate memorandums for each of the other four reviews. OIG performed these reviews due to reported allegations made in the fall of 2010 that national mortgage servicers were engaged in widespread questionable foreclosure practices involving the use of foreclosure “mills” and a practice known as “robosigning” of sworn documents in thousands of foreclosures throughout the United States.
-   *via [fulltextreports](http://fulltextreports.com/2012/03/14/new-hud-oigs-reviews-of-foreclosure-practices-at-five-of-the-nations-largest-fha-servicers/)*
+ 
+  *via [fulltextreports](http://fulltextreports.com/2012/03/14/new-hud-oigs-reviews-of-foreclosure-practices-at-five-of-the-nations-largest-fha-servicers/)*
 
 #### [State Legislation on Foreclosures, by State for 2011](http://www.ncsl.org/issues-research/banking/foreclosures-2011-legislation.aspx)
 
