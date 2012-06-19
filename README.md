@@ -1,4 +1,26 @@
-# Resources
+# Research / Reports
+
+#### [State of the Nation's Housing 2012](http://www.jchs.harvard.edu/research/publications/state-nation%E2%80%99s-housing-2012), Published June 14, 2012 by the Joint Center for Housing Studies
+> *The Joint Center for Housing Studies is a collaborative unit affiliated with the Harvard Graduate School of Design and the Harvard Kennedy School.*
+- [Full PDF report available](https://github.com/hrwgc/homes/blob/gh-pages/read/state-of-nations-housing-2012.pdf)
+
+#### HUD's Office of Inspector General [](http://www.hudoig.gov/reports/featured_reports.php)
+ > As part of the Office of Inspector General’s (OIG) nationwide effort to review the foreclosure practices of the five largest Federal Housing Administration (FHA) mortgage servicers (Bank of America, Wells Fargo Bank, CitiMortgage, JP Morgan Chase, and Ally Financial, Incorporated) we reviewed Wells Fargo’s foreclosure and claims processes. In addition to this memorandum, OIG issued separate memorandums for each of the other four reviews. OIG performed these reviews due to reported allegations made in the fall of 2010 that national mortgage servicers were engaged in widespread questionable foreclosure practices involving the use of foreclosure “mills” and a practice known as “robosigning” of sworn documents in thousands of foreclosures throughout the United States.
+   *via [fulltextreports](http://fulltextreports.com/2012/03/14/new-hud-oigs-reviews-of-foreclosure-practices-at-five-of-the-nations-largest-fha-servicers/)*
+
+#### [State Legislation on Foreclosures, by State for 2011](http://www.ncsl.org/issues-research/banking/foreclosures-2011-legislation.aspx)
+
+# Data Resources
+
+## Federal Reserve Bank of New York
+
+#### [Household Credit Reports](http://www.newyorkfed.org/creditconditions/index.html)
+ - has state and county level data, but their source is Equifax
+ > *Only counties with an estimated population of at least 10,000 consumers with credit reports in 2010Q4 were included in these tables. The figures in these tables are based on the FRBNY Consumer Credit Panel which constitutes a 5% random sample of the US population of individuals who have credit reports with Equifax.
+
+## [Financial Crimes Enforcement Network (FinCEN)]
+
+####[FinCEN Mortgage Fraud SAR Datasets](http://www.fincen.gov/mlf_sar_data/)
 
 ## HUD 
 
@@ -43,6 +65,11 @@
 
  > The Home Mortgage Disclosure Act (HMDA) was enacted by Congress in 1975 and was implemented by the Federal Reserve Board's Regulation C. **On July 21, 2011, the rule-writing authority of Regulation C was transferred to the Consumer Financial Protection Bureau (CFPB). Regulation C, requires lending institutions to report public loan data.**
 
+#### [Guide to HDMA Reporting for Mortgage Institutions](http://www.ffiec.gov/hmda/guide.htm)
+ > The Guide is a valuable resource for assisting all institutions in their HMDA reporting. It provides a summary of responsibilities and requirements, directions for assembling the necessary tools, and step-by-step instructions for reporting HMDA data.
+
+#### Office of the Comptroller of the Currency: [HMDA: What the Public has right to see and why](http://www.occ.gov/static/community-affairs/community-developments-newsletter/summer05/cd/hmdadisclosure.htm)
+
 #### [FFIEC HMDA Data Products](http://www.ffiec.gov/hmda/hmdaproducts.htm)
 
  - There are a lot of different datasets available on this page.
@@ -69,5 +96,15 @@ The PMIC LAR and TS data include information on applications for mortgage insura
 - Mortgage Lending Assessment Data Files, compiled 1990 - 2003
 - Home Mortgage Disclosure Reports, compiled 1990 - 2008
 
+## Office of the Comptroller of the Currency (OCC)
+
+### [OCC Mortgage Metrics Reports, released quarterly](http://www.occ.gov/publications/publications-by-type/other-publications-reports/index-mortgage-metrics.html)
+ - Frequent updates, but only state-level in tables in appendix
+
+
+
 #### [Neighborhood Nexus Data Sources](http://www.neighborhoodnexus.org/content/data-sources)
  - Seems like a good resource for finding other data sets, etc. 
+
+
+#### [Brookings MetroMonitor - Economic Recovery in 100 Metro Areas ](http://www.brookings.edu/research/reports/2012/03/0622-metro-monitor)
