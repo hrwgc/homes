@@ -111,3 +111,9 @@ The PMIC LAR and TS data include information on applications for mortgage insura
 
 
 #### [Brookings MetroMonitor - Economic Recovery in 100 Metro Areas ](http://www.brookings.edu/research/reports/2012/03/0622-metro-monitor)
+
+
+
+In read/
+
+-[February 2009- Congressional Research Service, "Troubled Asset Relief Program and Foreclosures"](https://github.com/hrwgc/homes/blob/gh-pages/read/crs-tarp-foreclosures-2009.pdf)
