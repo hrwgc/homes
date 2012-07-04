@@ -5,7 +5,7 @@
 
 -----
 
-### [Making Home Affordable Data File](http://www.treasury.gov/initiatives/financial-stability/results/Pages/mha_publicfile.aspx)
+### [Making Home Affordable Data File File](http://www.treasury.gov/initiatives/financial-stability/results/Pages/mha_publicfile.aspx)
 
 > The purpose of the Making Home Affordable © (MHA) Data File is to provide the general public with a comprehensive view of the Obama Administration's MHA programs to more fully understand its impact in a continued commitment to transparency. Protecting the identities of MHA participants is of primary importance, and a thorough analysis has been conducted and steps have been taken to ensure the anonymity of individual borrowers. 
 
@@ -14,10 +14,10 @@
 - Contents 
 > The data file provides information on many subjects including: 
 > - gross income of homeowners who have applied for HAMP mortgage assistance; 
-> - mortgage loan balances of homeowners after receiving a permanent modification; • monthly mortgage payment reductions of homeowners in permanent HAMP modifications; 
+> - mortgage loan balances of homeowners after receiving a permanent modification;
+> - monthly mortgage payment reductions of homeowners in permanent HAMP modifications; 
 > - credit scores of homeowners in permanent modifications; and 
-> - race and ethnicity information of homeowners in HAMP (to the extent respondents provided such 
-information).
+> - race and ethnicity information of homeowners in HAMP (to the extent respondents provided such information).
 
 
 
