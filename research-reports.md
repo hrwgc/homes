@@ -8,9 +8,9 @@
 - [The Consumer Financial Protection Bureau (CFPB): A Legal Analysis][2], June 2012
 - [Troubled Asset Relief Program and Foreclosures][3], February 2009
 
-[1]:read/3-2009-congressional-oversight-panel-report-foreclosures.pdf
-[2]:read/crs-cfpb-legal-analysis.pdf
-[3]:read/crs-tarp-foreclosures-2009.pdf
+[1]:https://github.com/hrwgc/homes/blob/gh-pages/read/3-2009-congressional-oversight-panel-report-foreclosures.pdf
+[2]:https://github.com/hrwgc/homes/blob/gh-pages/read/crs-cfpb-legal-analysis.pdf
+[3]:https://github.com/hrwgc/homes/blob/gh-pages/read/crs-tarp-foreclosures-2009.pdf
 
 
 #### [State of the Nation's Housing 2012][4]
@@ -21,7 +21,7 @@
 - [Full PDF report available][5]
 
 [4]:http://www.jchs.harvard.edu/research/publications/state-nation%E2%80%99s-housing-2012
-[5]:read/state-of-nations-housing-2012.pdf
+[5]:https://github.com/hrwgc/homes/blob/gh-pages/read/state-of-nations-housing-2012.pdf
 
 #### HUD's Office of Inspector General [Federal Housing Admin. Audits of Citi, Wells Fargo, JP Morgan, Ally, Bank of America][6] 
 
@@ -48,4 +48,4 @@
 
 In read/
 
--[February 2009- Congressional Research Service, "Troubled Asset Relief Program and Foreclosures"](read/crs-tarp-foreclosures-2009.pdf)
+-[February 2009- Congressional Research Service, "Troubled Asset Relief Program and Foreclosures"](https://github.com/hrwgc/homes/blob/gh-pages/read/crs-tarp-foreclosures-2009.pdf)

@@ -115,7 +115,7 @@
  - [VT](http://www.huduser.org/portal/datasets/excel/VT_foreclosure.zip)
 
 [Federal Housing Finance Agency (FHFA)]:http://www.fhfa.gov/Default.aspx?Page=304
-[data/fhfa]:homes/data/fhfa
+[data/fhfa]:https://github.com/hrwgc/homes/blob/gh-pages/data/fhfa
 [FHFA 2010 Public Use Database (PUDB)]:http://www.fhfa.gov/Default.aspx?Page=367
 [FHFA 2009 Public Use Database (PUDB)]:http://www.fhfa.gov/Default.aspx?Page=315
 [FHFA 2008 Public Use Database (PUDB)]:http://www.fhfa.gov/Default.aspx?Page=299
