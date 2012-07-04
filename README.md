@@ -8,7 +8,7 @@
 
 ### [2009 Congressional Oversight Panel on Housing Crisis][3]
 
-[1]:research-reports.md
-[2]:databases.md
-[3]:copanel.md
+[1]:homes/research-reports.md
+[2]:homes/databases.md
+[3]:homes/copanel.md
 

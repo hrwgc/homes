@@ -97,7 +97,7 @@ Meta description: "HOPE NOW is an alliance between HUD approved counseling agent
 > The private sector also has developed and offered programs at no cost to help distressed homeowners. HUD-approved counseling agents, mortgage companies, investors, and other mortgage market participants created the HOPE NOW Alliance (Hope Now) to provide homeowners with free foreclosure prevention assistance. Consumers can visit Hope Now’s website, www.hopenow.com, or call the Homeowner’s HOPE Hotline, 1-888-995-HOPE, to find housing counselors from HUD-certified agencies who can help guide them through various foreclosure prevention options, including loan modification.
 SOURCE: Advance Notice of Proposed Rulemaking: Mortgage Assistance Relief Services [A Proposed Rule by the Federal Trade Commission on 06/01/2009][10]
 
-[1]:read/3-2009-Congressional-oversight-panel-report-foreclosures.pdf
+[1]:homes/read/3-2009-Congressional-oversight-panel-report-foreclosures.pdf
 [3]:http://www.realtytrac.com/content/press-releases/us-foreclosure-activity-increases-75-percent-in-2007-3604?accnt=64847
 [4]:http://works.bepress.com/cgi/viewcontent.cgi?article=1010&context=karen_pence
 [5]:http://www.fhfa.gov/webfiles/23906/Feb2012ForeclosurePrevention.pdf

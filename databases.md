@@ -65,7 +65,7 @@
 
 ### [HUD Neighborhood-level Foreclosure Data](http://www.huduser.org/portal/datasets/nsp_foreclosure_data.html)
 
- **Note:** See [HUD's methodology paper on this dataset](read/hud-nsp-methodology-paper.pdf).
+ **Note:** See [HUD's methodology paper on this dataset](homes/read/hud-nsp-methodology-paper.pdf).
 
  - [AL](http://www.huduser.org/portal/datasets/excel/AL_foreclosure.zip)
  - [AK](http://www.huduser.org/portal/datasets/excel/AK_foreclosure.zip)
@@ -115,7 +115,7 @@
  - [VT](http://www.huduser.org/portal/datasets/excel/VT_foreclosure.zip)
 
 [Federal Housing Finance Agency (FHFA)]:http://www.fhfa.gov/Default.aspx?Page=304
-[data/fhfa]:https://github.com/hrwgc/homes/tree/gh-pages/data/fhfa
+[data/fhfa]:homes/data/fhfa
 [FHFA 2010 Public Use Database (PUDB)]:http://www.fhfa.gov/Default.aspx?Page=367
 [FHFA 2009 Public Use Database (PUDB)]:http://www.fhfa.gov/Default.aspx?Page=315
 [FHFA 2008 Public Use Database (PUDB)]:http://www.fhfa.gov/Default.aspx?Page=299
