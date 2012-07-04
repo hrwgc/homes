@@ -212,4 +212,5 @@ The PMIC LAR and TS data include information on applications for mortgage insura
 ## Office of the Comptroller of the Currency (OCC)
 
 ### [OCC Mortgage Metrics Reports, released quarterly](http://www.occ.gov/publications/publications-by-type/other-publications-reports/index-mortgage-metrics.html)
+
  - Frequent updates, but only state-level in tables in appendix

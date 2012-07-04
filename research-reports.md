@@ -48,4 +48,4 @@
 
 In read/
 
--[February 2009- Congressional Research Service, "Troubled Asset Relief Program and Foreclosures"](https://github.com/hrwgc/homes/blob/gh-pages/read/crs-tarp-foreclosures-2009.pdf)
+- [February 2009- Congressional Research Service, "Troubled Asset Relief Program and Foreclosures"](https://github.com/hrwgc/homes/blob/gh-pages/read/crs-tarp-foreclosures-2009.pdf)
